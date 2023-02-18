@@ -1,0 +1,7 @@
+/*
+Copyright (c) 2023 takisai
+Released under the MIT license
+https://opensource.org/licenses/mit-license.php
+*/
+
+'use strict';
